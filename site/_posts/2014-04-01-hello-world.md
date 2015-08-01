@@ -6,7 +6,7 @@ category: blog
 layout: post
 ---
 
-Announcing the [Yeoman Toronto User Group](http://www.meetup.com/Toronto-Yeoman-User-Group/), and its new home on the web: [yeoman.to](http://yeoman.to)
+Announcing the [Yeoman Toronto User Group](http://www.meetup.com/dev-config/), and its new home on the web: [yeoman.to](http://yeoman.to)
 
 ### What is Yeoman?
 
@@ -35,7 +35,7 @@ We will be organizing workshops, regular meetups and even Yeoman Hackathons!
 
 here's how you can get involved:
 
-* Join the [Meetup Group](http://www.meetup.com/Toronto-Yeoman-User-Group/) today to stay on top of workshop and meeting announcements
+* Join the [Meetup Group](http://www.meetup.com/dev-config/) today to stay on top of workshop and meeting announcements
 * Contact us directly at [contact@devconfig.org](mailto://contact@devconfig.org) if you have any ideas/suggestions or if you want to help organize/mentor a workshop
 * Follow us on Twitter [@DevConfig](http://twitter.com/DevConfig) 
 * Subscribe to this blog's [RSS feed](/feed.xml)

@@ -48,4 +48,4 @@ We got food & coffee covered! But we'd like to make sure we cover all diatery ne
 
 ### See you there!
 
-If you have any questions you can always leave comments here, or on the [meetup page](http://www.meetup.com/Toronto-Yeoman-User-Group/events/190852932/), or tweet us [@DevConfig](https://www.twitter.com/DevConfig)
+If you have any questions you can always leave comments here, or on the [meetup page](http://www.meetup.com/dev-config/events/190852932/), or tweet us [@DevConfig](https://www.twitter.com/DevConfig)

@@ -18,9 +18,9 @@ gallery:
 We wraped up our first workshop: "Create web apps with Yeoman and AngularJS" with great success!
 We got a full house, equal turn out of men and women, and awesome mentors who helped make this workshop a success!
 
-Here are some of the highlights in pictures. View the full album in the event page on [meetup.com](http://www.meetup.com/Toronto-Yeoman-User-Group/photos/22073862/)
+Here are some of the highlights in pictures. View the full album in the event page on [meetup.com](http://www.meetup.com/dev-config/photos/22073862/)
 
-Be sure to join the [meetup group](http://www.meetup.com/Toronto-Yeoman-User-Group/) to stay informed of upcoming workshops and events.
+Be sure to join the [meetup group](http://www.meetup.com/dev-config/) to stay informed of upcoming workshops and events.
 
 **A big THANK YOU again to Our community supporters:**
 

@@ -105,7 +105,7 @@ We'll be focusing on [yo](https://github.com/yeoman), [Grunt](https://github.com
   </div>
 
   <div class="col-lg-4">
-    <a class="btn btn-danger btn-block" href="http://www.meetup.com/Toronto-Yeoman-User-Group/events/190852932/"><i class="fa fa-ticket"></i> Book your spot</a>
+    <a class="btn btn-danger btn-block" href="http://www.meetup.com/dev-config/events/190852932/"><i class="fa fa-ticket"></i> Book your spot</a>
     <a class="btn btn-info btn-block" href="http://goo.gl/forms/XTtTO1D9Xr" target="_blank"><i class="fa fa-check-square-o"></i> Take the Survey</a>
     <a class="btn btn-success btn-block" href="#share"><i class="fa fa-share"></i> Spread the word</a>
   </div>
