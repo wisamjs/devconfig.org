@@ -1,0 +1,23 @@
+{% assign safe_title = page.title | url_escape | replace: '"', "'" %}
+{% capture share_url %}{{ site.url }}{{ page.url }}{% endcapture %}
+{% capture hashtags %}DevConfig,{% if page.tags %}{{ page.tags | join: ',' | replace: ' ', '' }}{% endif %}{% endcapture %}
+
+<section id="share">
+  <!--
+  {% capture buffer_link %}http://www.addtoany.com/add_to/buffer?linkurl={{ share_url | url_escape }}&amp;linkname={{ safe_title | url_escape }}{% endcapture %}
+  {% include share/link.html name="buffer" link=buffer_link text="Add to Buffer" %}
+  -->
+  {%if include.header %}<h4>{{ include.header }}</h4>{% endif %}
+
+  {% capture twitter_link %}https://twitter.com/intent/tweet?url={{ share_url | url_escape }}&amp;text={{ safe_title }}&amp;via={{ site.meta.social.twitter }}&amp;hashtags={{ hashtags }}&amp;related={{ site.data.meta.author.twitter }}{% endcapture %}
+  {% include share/link.html name="twitter" link=twitter_link text="Post to Twitter" %}
+
+  {% capture facebook_link %}https://www.facebook.com/sharer/sharer.php?u={{ share_url | url_escape }}{% endcapture %}
+  {% include share/link.html name="facebook" link=facebook_link text="Share on Facebook" %}
+
+  {% capture google_link %}https://plus.google.com/share?url={{ share_url | url_escape }}&amp;hl=en{% endcapture %}
+  {% include share/link.html name="google-plus" link=google_link text="Share on Google+" %}
+
+  {% capture linkedin_link %}http://www.linkedin.com/shareArticle?url={{ share_url | url_escape }}&amp;title={{ safe_title | url_escape }}{% endcapture %}
+  {% include share/link.html name="linkedin" link=linkedin_link text="Share on LinkedIn" %}
+</section>

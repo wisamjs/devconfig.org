@@ -1,0 +1,40 @@
+source: site
+destination: .site
+layouts: _layouts
+exclude: ['node_modules', '.config']
+keep_files: ['assets']
+gems: ['jekyll-redirect-from']
+timezone: America/Toronto
+
+collections:
+  events:
+    output: true
+    permalink: /events/:path/
+
+lsi: true
+future: true
+limit_posts: 0
+highligter: true
+markdown: redcarpet
+
+permalink: /blog/:title/
+
+url: https://devconfig.org
+
+meta:
+  title: dev.config
+  description: Tooling, Automation and Developer Workflow Meetup in Toronto.
+  domain: devconfig.org
+
+  disqus: devconfig
+
+  social:
+    twitter: DevConfig
+    github: DevConfig
+
+  author:
+      name: Ahmad Nassri
+      twitter: AhmadNassri
+      email: ahmad@devconfig.org
+      about: http://ahmadnassri.com/about
+      avatar: http://ahmadnassri.com/images/avatar.jpg

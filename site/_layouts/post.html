@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en" itemscope itemtype="http://schema.org/Article">
+  {% include head.html %}
+
+  <body>
+    <div id="border"></div>
+
+    <div class="fixed-top hidden-xs">
+      <div class="container">
+        <div class="row">
+          <div id="sidebar" class="col-sm-3">{% include sidebar.html %}</div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+      <div class="row">
+        <div id="sidebar" class="col-sm-3">
+          <div class="visible-xs">{% include sidebar.html %}</div>
+        </div>
+
+        <div id="main" class="col-sm-9 article">
+          <article>
+            <header>
+              <p>
+                <time pubdate datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%b %d, %Y' }}</time>
+                <a href="/"><i class="fa fa-home pull-right"></i></a>
+              </p>
+
+              <hr/>
+
+              <h1>{{ page.title }}</h1>
+              {% if page.subtitle %}<h2>{{ page.subtitle }}</h2>{% endif %}
+            </header>
+
+            <div class="content">{{ content }}</div>
+          </article>
+
+          <hr/>
+
+          {% include share/index.html %}
+
+          <hr/>
+
+          {% include related.html %}
+
+          <hr/>
+
+          {% include comments.html %}
+        </div>
+      </div>
+    </div>
+
+    {% include analytics.html %}
+  </body>
+</html>

@@ -1,0 +1,27 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="{{ site.url }}/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <title>{{ site.meta.title }} | Blog Feed</title>
+    <description>{{ site.meta.description }}</description>
+    <link>{{ site.url }}</link>
+    <language>en-ca</language>
+    <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
+    <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
+    <ttl>1800</ttl>
+
+    {% for post in site.posts %}
+    <item>
+        <title>{{ post.title }}</title>
+        <author>{{ site.meta.author.email }} ({{ site.meta.author.name }})</author>
+        <link>{{ site.url }}{{ post.url }}</link>
+        <guid>{{ site.url }}{{ post.id }}</guid>
+        <pubDate>{{ post.date | date_to_rfc822 }}</pubDate>
+        <description>{{ post.content | xml_escape}}</description>
+    </item>
+    {% endfor %}
+  </channel>
+</rss>
