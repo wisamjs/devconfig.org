@@ -7,8 +7,8 @@
     <description>Tooling, Automation and Developer Workflow Meetup in Toronto.</description>
     <link>https://devconfig.org</link>
     <language>en-ca</language>
-    <lastBuildDate>Sat, 01 Aug 2015 14:28:21 -0400</lastBuildDate>
-    <pubDate>Sat, 01 Aug 2015 14:28:21 -0400</pubDate>
+    <lastBuildDate>Sat, 01 Aug 2015 14:29:31 -0400</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2015 14:29:31 -0400</pubDate>
     <ttl>1800</ttl>
 
     
@@ -62,7 +62,7 @@ The best way to connect with the core maintainers is IRC [&lt;em&gt;irc.freenode
 
 &lt;h3&gt;See you there!&lt;/h3&gt;
 
-&lt;p&gt;If you have any questions you can always leave comments here, or on the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/events/190852932/&quot;&gt;meetup page&lt;/a&gt;, or tweet us &lt;a href=&quot;https://www.twitter.com/DevConfig&quot;&gt;@DevConfig&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;If you have any questions you can always leave comments here, or on the &lt;a href=&quot;http://www.meetup.com/dev-config/events/190852932/&quot;&gt;meetup page&lt;/a&gt;, or tweet us &lt;a href=&quot;https://www.twitter.com/DevConfig&quot;&gt;@DevConfig&lt;/a&gt;&lt;/p&gt;
 </description>
     </item>
     
@@ -74,7 +74,7 @@ The best way to connect with the core maintainers is IRC [&lt;em&gt;irc.freenode
         <pubDate>Thu, 02 Oct 2014 00:00:00 -0400</pubDate>
         <description>&lt;p&gt;We at Bower Labs (not to be confused with that other &lt;a href=&quot;http://bower.io/&quot;&gt;Bower&lt;/a&gt;!) are proud to support the &lt;a href=&quot;/events/yeoman-tooling-hackathon/&quot;&gt;Yeoman Tooling Hackathon&lt;/a&gt; in Toronto along with &lt;a href=&quot;http://github.com/&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;http://bitmakerlabs.com/&quot;&gt;Bitmaker Labs&lt;/a&gt;. It&amp;#39;s a great way to give back to the community that creates the tools we all use to build modern web applications.&lt;/p&gt;
 
-&lt;p&gt;If you haven&amp;#39;t already, &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/events/190852932/&quot;&gt;reserve your spot&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;If you haven&amp;#39;t already, &lt;a href=&quot;http://www.meetup.com/dev-config/events/190852932/&quot;&gt;reserve your spot&lt;/a&gt;!&lt;/p&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://static.squarespace.com/static/50db5354e4b015296cd3dd90/t/542d9275e4b0bf0e1239fcfd/1412272767872/yeoman-toronto-bower-labs&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
 </description>
@@ -89,9 +89,9 @@ The best way to connect with the core maintainers is IRC [&lt;em&gt;irc.freenode
         <description>&lt;p&gt;We wraped up our first workshop: &amp;quot;Create web apps with Yeoman and AngularJS&amp;quot; with great success!
 We got a full house, equal turn out of men and women, and awesome mentors who helped make this workshop a success!&lt;/p&gt;
 
-&lt;p&gt;Here are some of the highlights in pictures. View the full album in the event page on &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/photos/22073862/&quot;&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Here are some of the highlights in pictures. View the full album in the event page on &lt;a href=&quot;http://www.meetup.com/dev-config/photos/22073862/&quot;&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;Be sure to join the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/&quot;&gt;meetup group&lt;/a&gt; to stay informed of upcoming workshops and events.&lt;/p&gt;
+&lt;p&gt;Be sure to join the &lt;a href=&quot;http://www.meetup.com/dev-config/&quot;&gt;meetup group&lt;/a&gt; to stay informed of upcoming workshops and events.&lt;/p&gt;
 
 &lt;p&gt;&lt;strong&gt;A big THANK YOU again to Our community supporters:&lt;/strong&gt;&lt;/p&gt;
 
@@ -185,7 +185,7 @@ We got a full house, equal turn out of men and women, and awesome mentors who he
         <link>https://devconfig.org/blog/hello-world/</link>
         <guid>https://devconfig.org/blog/hello-world</guid>
         <pubDate>Tue, 01 Apr 2014 00:00:00 -0400</pubDate>
-        <description>&lt;p&gt;Announcing the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/&quot;&gt;Yeoman Toronto User Group&lt;/a&gt;, and its new home on the web: &lt;a href=&quot;http://yeoman.to&quot;&gt;yeoman.to&lt;/a&gt;&lt;/p&gt;
+        <description>&lt;p&gt;Announcing the &lt;a href=&quot;http://www.meetup.com/dev-config/&quot;&gt;Yeoman Toronto User Group&lt;/a&gt;, and its new home on the web: &lt;a href=&quot;http://yeoman.to&quot;&gt;yeoman.to&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3&gt;What is Yeoman?&lt;/h3&gt;
 
@@ -215,7 +215,7 @@ All three of these tools are developed and maintained separately, but work well 
 &lt;p&gt;here&amp;#39;s how you can get involved:&lt;/p&gt;
 
 &lt;ul&gt;
-&lt;li&gt;Join the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/&quot;&gt;Meetup Group&lt;/a&gt; today to stay on top of workshop and meeting announcements&lt;/li&gt;
+&lt;li&gt;Join the &lt;a href=&quot;http://www.meetup.com/dev-config/&quot;&gt;Meetup Group&lt;/a&gt; today to stay on top of workshop and meeting announcements&lt;/li&gt;
 &lt;li&gt;Contact us directly at &lt;a href=&quot;mailto://contact@devconfig.org&quot;&gt;contact@devconfig.org&lt;/a&gt; if you have any ideas/suggestions or if you want to help organize/mentor a workshop&lt;/li&gt;
 &lt;li&gt;Follow us on Twitter &lt;a href=&quot;http://twitter.com/DevConfig&quot;&gt;@DevConfig&lt;/a&gt; &lt;/li&gt;
 &lt;li&gt;Subscribe to this blog&amp;#39;s &lt;a href=&quot;/feed.xml&quot;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
