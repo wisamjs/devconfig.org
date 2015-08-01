@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://devconfig.org/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <title>dev.config | Blog Feed</title>
+    <description>Tooling, Automation and Developer Workflow Meetup in Toronto.</description>
+    <link>https://devconfig.org</link>
+    <language>en-ca</language>
+    <lastBuildDate>Sat, 01 Aug 2015 14:22:05 -0400</lastBuildDate>
+    <pubDate>Sat, 01 Aug 2015 14:22:05 -0400</pubDate>
+    <ttl>1800</ttl>
+
+    
+    <item>
+        <title>YeomanTO Hackathon Sponsors & Checklist</title>
+        <author>ahmad@devconfig.org (Ahmad Nassri)</author>
+        <link>https://devconfig.org/blog/hackathon-checklist/</link>
+        <guid>https://devconfig.org/blog/hackathon-checklist</guid>
+        <pubDate>Fri, 10 Oct 2014 00:00:00 -0400</pubDate>
+        <description>&lt;p&gt;With one week to go until our next event: &lt;a href=&quot;/events/yeoman-tooling-hackathon/&quot;&gt;Open-Source Tooling Hackathon&lt;/a&gt;, we&amp;#39;re super excited to welcome new sponsors on-board:&lt;/p&gt;
+
+&lt;h3&gt;Sponsors&lt;/h3&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://bitmakerlabs.com/&quot;&gt;&lt;strong&gt;Bitmaker Labs&lt;/strong&gt;&lt;/a&gt; has generously donated their space for us to use, and set-up shop for the three days of the hackathon!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://github.com&quot;&gt;&lt;strong&gt;Github&lt;/strong&gt;&lt;/a&gt;, &lt;a href=&quot;http://yeoman.io&quot;&gt;&lt;strong&gt;Yeoman&lt;/strong&gt;&lt;/a&gt; &amp;amp; &lt;a href=&quot;http://tracked.link/mashape_yeomanto_meetup&quot;&gt;&lt;strong&gt;Mashape&lt;/strong&gt;&lt;/a&gt; are giving away loads of swag!! from stickers to beautify your laptop, to awesome t-shirts that show-off your inner-geek on the streets, we also have special giveaways that we&amp;#39;ll announce at the event!&lt;/p&gt;
+
+&lt;p&gt;Special Thank you to our Gold Sponsor &lt;a href=&quot;http://bowerlabs.com/&quot;&gt;&lt;strong&gt;Bower Labs&lt;/strong&gt;&lt;/a&gt; for covering all organizing costs:
+Bower Labs specialize in mobile-first native and web applications, REST APIs and thin servers that connect them. be sure to check out their Air Canada case study&lt;/p&gt;
+
+&lt;h3&gt;Spread The Word&lt;/h3&gt;
+
+&lt;p&gt;Be sure to share with your friends &amp;amp; fellow hackers: Tweet with the hash tag: &lt;a href=&quot;https://twitter.com/search?q=%DevConfig&quot;&gt;#DevConfig&lt;/a&gt; how excited you are to contribute to the open source world at the Yeoman Toronto Hackathon, and you&amp;#39;ll be entered into a draw to &lt;strong&gt;win one of few limited edition Yeoman T-Shirts!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Catering&lt;/h3&gt;
+
+&lt;p&gt;We got food &amp;amp; coffee covered! But we&amp;#39;d like to make sure we cover all diatery needs, so please help us out by filling out this &lt;a href=&quot;http://goo.gl/forms/XTtTO1D9Xr&quot;&gt;quick survey&lt;/a&gt;, and answer a few questions to confirm your attendance and your food preference.&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;Note: we&amp;#39;ll try our best to cover all dietary restrictions, but we unfortunately cannot promise all special requests will be accomodated.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Getting Ready&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;Survey&lt;/strong&gt;
+Take this &lt;a href=&quot;http://goo.gl/forms/XTtTO1D9Xr&quot;&gt;quick survey&lt;/a&gt; to help us organize food &amp;amp; teams.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;BYOL:&lt;/strong&gt;
+Bring your own laptop, WiFi is available.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;RTFM:&lt;/strong&gt; 
+Start by reading each of the tools &lt;code&gt;README.md&lt;/code&gt; &amp;amp; &lt;code&gt;Contributing.md&lt;/code&gt;: &lt;em&gt;(&lt;a href=&quot;https://github.com/yeoman/yo&quot;&gt;yo&lt;/a&gt;, &lt;a href=&quot;https://github.com/gruntjs/grunt&quot;&gt;Grunt&lt;/a&gt;, &lt;a href=&quot;https://github.com/bower/bower&quot;&gt;Bower&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;RTFC:&lt;/strong&gt;
+Get friendly and familiar with the source code ahead of time: &lt;em&gt;(&lt;a href=&quot;https://github.com/yeoman&quot;&gt;yo&lt;/a&gt;, &lt;a href=&quot;https://github.com/gruntjs&quot;&gt;Grunt&lt;/a&gt;, &lt;a href=&quot;https://github.com/bower&quot;&gt;Bower&lt;/a&gt;)&lt;/em&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;strong&gt;IRC:&lt;/strong&gt;
+The best way to connect with the core maintainers is IRC [&lt;em&gt;irc.freenode.net&lt;/em&gt;]:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;You can find the &lt;strong&gt;Yo&lt;/strong&gt; team in &lt;a href=&quot;http://webchat.freenode.net/?channels=yeoman&quot;&gt;#yeoman&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You can find the &lt;strong&gt;Grunt&lt;/strong&gt; team in &lt;a href=&quot;http://webchat.freenode.net/?channels=grunt&quot;&gt;#grunt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You can find the &lt;strong&gt;Bower&lt;/strong&gt; team in &lt;a href=&quot;http://webchat.freenode.net/?channels=bower&quot;&gt;#bower&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;See you there!&lt;/h3&gt;
+
+&lt;p&gt;If you have any questions you can always leave comments here, or on the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/events/190852932/&quot;&gt;meetup page&lt;/a&gt;, or tweet us &lt;a href=&quot;https://www.twitter.com/DevConfig&quot;&gt;@DevConfig&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+        <title>Bower Labs Sponsors the Yeoman Tooling Hackathon in Toronto</title>
+        <author>ahmad@devconfig.org (Ahmad Nassri)</author>
+        <link>https://devconfig.org/blog/message-from-bower-labs/</link>
+        <guid>https://devconfig.org/blog/message-from-bower-labs</guid>
+        <pubDate>Thu, 02 Oct 2014 00:00:00 -0400</pubDate>
+        <description>&lt;p&gt;We at Bower Labs (not to be confused with that other &lt;a href=&quot;http://bower.io/&quot;&gt;Bower&lt;/a&gt;!) are proud to support the &lt;a href=&quot;/events/yeoman-tooling-hackathon/&quot;&gt;Yeoman Tooling Hackathon&lt;/a&gt; in Toronto along with &lt;a href=&quot;http://github.com/&quot;&gt;GitHub&lt;/a&gt; and &lt;a href=&quot;http://bitmakerlabs.com/&quot;&gt;Bitmaker Labs&lt;/a&gt;. It&amp;#39;s a great way to give back to the community that creates the tools we all use to build modern web applications.&lt;/p&gt;
+
+&lt;p&gt;If you haven&amp;#39;t already, &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/events/190852932/&quot;&gt;reserve your spot&lt;/a&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://static.squarespace.com/static/50db5354e4b015296cd3dd90/t/542d9275e4b0bf0e1239fcfd/1412272767872/yeoman-toronto-bower-labs&quot; alt=&quot;&quot;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+        <title>May 2014 Workshop Recap</title>
+        <author>ahmad@devconfig.org (Ahmad Nassri)</author>
+        <link>https://devconfig.org/blog/may-2014-workshop-recap/</link>
+        <guid>https://devconfig.org/blog/may-2014-workshop-recap</guid>
+        <pubDate>Fri, 02 May 2014 00:00:00 -0400</pubDate>
+        <description>&lt;p&gt;We wraped up our first workshop: &amp;quot;Create web apps with Yeoman and AngularJS&amp;quot; with great success!
+We got a full house, equal turn out of men and women, and awesome mentors who helped make this workshop a success!&lt;/p&gt;
+
+&lt;p&gt;Here are some of the highlights in pictures. View the full album in the event page on &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/photos/22073862/&quot;&gt;meetup.com&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Be sure to join the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/&quot;&gt;meetup group&lt;/a&gt; to stay informed of upcoming workshops and events.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;A big THANK YOU again to Our community supporters:&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://twitter.com/CBCDigital&quot;&gt;@CBCDigital&lt;/a&gt;, &lt;a href=&quot;http://hackeryou.com/&quot;&gt;HackerYou&lt;/a&gt;, &lt;a href=&quot;http://www.meetup.com/GDG-Toronto/&quot;&gt;GDG Toronto&lt;/a&gt;, &lt;a href=&quot;http://addyosmani.com/blog/&quot;&gt;Addy Osmani&lt;/a&gt;, and all the volunteer mentors.&lt;/p&gt;
+
+&lt;div id=&quot;carousel&quot; class=&quot;carousel slide&quot; data-ride=&quot;carousel&quot;&gt;
+  &lt;ol class=&quot;carousel-indicators&quot;&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;1&quot; class=&quot;active&quot;&gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;2&quot; &gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;3&quot; &gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;4&quot; &gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;5&quot; &gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;6&quot; &gt;&lt;/li&gt;
+    
+      &lt;li data-target=&quot;#carousel&quot; data-slide-to=&quot;7&quot; &gt;&lt;/li&gt;
+    
+  &lt;/ol&gt;
+
+  &lt;div class=&quot;carousel-inner&quot;&gt;
+    
+      &lt;div class=&quot;item active&quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/1.jpg&quot; alt=&quot;Some of our mentors talking tech&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;Some of our mentors talking tech&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item &quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/2.jpg&quot; alt=&quot;Pearl Takling AngularJS&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;Pearl Takling AngularJS&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item &quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/3.jpg&quot; alt=&quot;Mentors helping out&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;Mentors helping out&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item &quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/4.jpg&quot; alt=&quot;Mentors answering questions&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;Mentors answering questions&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item &quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/5.jpg&quot; alt=&quot;Mentors answering questions&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;Mentors answering questions&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item &quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/6.jpg&quot; alt=&quot;A full house!&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;A full house!&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+      &lt;div class=&quot;item &quot;&gt;
+        &lt;img src=&quot;/assets/images//blog/may-2014-workshop-recap/7.jpg&quot; alt=&quot;Learning in progress&quot;&gt;
+        &lt;div class=&quot;carousel-caption&quot;&gt;
+          &lt;p&gt;Learning in progress&lt;/p&gt;
+        &lt;/div&gt;
+      &lt;/div&gt;
+    
+  &lt;/div&gt;
+
+  &lt;a class=&quot;left carousel-control&quot; href=&quot;#carousel&quot; data-slide=&quot;prev&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-left&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+  &lt;a class=&quot;right carousel-control&quot; href=&quot;#carousel&quot; data-slide=&quot;next&quot;&gt;
+    &lt;span class=&quot;glyphicon glyphicon-chevron-right&quot;&gt;&lt;/span&gt;
+  &lt;/a&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+        <title>Hello World!</title>
+        <author>ahmad@devconfig.org (Ahmad Nassri)</author>
+        <link>https://devconfig.org/blog/hello-world/</link>
+        <guid>https://devconfig.org/blog/hello-world</guid>
+        <pubDate>Tue, 01 Apr 2014 00:00:00 -0400</pubDate>
+        <description>&lt;p&gt;Announcing the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/&quot;&gt;Yeoman Toronto User Group&lt;/a&gt;, and its new home on the web: &lt;a href=&quot;http://yeoman.to&quot;&gt;yeoman.to&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3&gt;What is Yeoman?&lt;/h3&gt;
+
+&lt;p&gt;With so many great tools available to front-end web developers these days it can sometimes be difficult to understand how they all fit together. Deciding on a workflow that you&amp;#39;re happy with is often a very personal endeavour, but getting started isn&amp;#39;t always easy. Yeoman aims to solve this problem by scaffolding workflows for creating modern webapps, while at the same time mixing in many of the best practices that have evolved within the industry.&lt;/p&gt;
+
+&lt;h4&gt;Enter &lt;a href=&quot;http://yeoman.io&quot;&gt;Yeoman&lt;/a&gt;&lt;/h4&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/images/blog/hello-world/toolset.jpg&quot; alt=&quot;Yeoman Logos&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;Our workflow is comprised of three tools for improving your &lt;strong&gt;productivity&lt;/strong&gt; and &lt;strong&gt;satisfaction&lt;/strong&gt; when building a web app: &lt;em&gt;yo&lt;/em&gt; (the scaffolding tool), &lt;em&gt;grunt&lt;/em&gt; (the build tool) and &lt;em&gt;bower&lt;/em&gt; (for package management).&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/yeoman/yo&quot;&gt;yo&lt;/a&gt; scaffolds out a new application, writing your Grunt configuration and pulling in relevant Grunt tasks and Bower dependencies that you might need for your build.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://gruntjs.com/&quot;&gt;Grunt&lt;/a&gt; is used to build, preview and test your project, thanks to help from tasks curated by the Yeoman team and grunt-contrib.&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&quot;http://bower.io/&quot;&gt;Bower&lt;/a&gt; is used for dependency management, so that you no longer have to manually download and manage your scripts.
+All three of these tools are developed and maintained separately, but work well together as part of our prescribed workflow for keeping you effective.&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3&gt;Why this group&lt;/h3&gt;
+
+&lt;p&gt;A Toronto meetup group for anyone interested in building &amp;amp; learning modern workflows for modern webapps using Yeoman. All skill levels are welcome!&lt;/p&gt;
+
+&lt;p&gt;We will be organizing workshops, regular meetups and even Yeoman Hackathons!&lt;/p&gt;
+
+&lt;h3&gt;Join Us!&lt;/h3&gt;
+
+&lt;p&gt;here&amp;#39;s how you can get involved:&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;Join the &lt;a href=&quot;http://www.meetup.com/Toronto-Yeoman-User-Group/&quot;&gt;Meetup Group&lt;/a&gt; today to stay on top of workshop and meeting announcements&lt;/li&gt;
+&lt;li&gt;Contact us directly at &lt;a href=&quot;mailto://contact@devconfig.org&quot;&gt;contact@devconfig.org&lt;/a&gt; if you have any ideas/suggestions or if you want to help organize/mentor a workshop&lt;/li&gt;
+&lt;li&gt;Follow us on Twitter &lt;a href=&quot;http://twitter.com/DevConfig&quot;&gt;@DevConfig&lt;/a&gt; &lt;/li&gt;
+&lt;li&gt;Subscribe to this blog&amp;#39;s &lt;a href=&quot;/feed.xml&quot;&gt;RSS feed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
