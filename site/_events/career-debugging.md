@@ -35,8 +35,8 @@ Keep an eye on the [#DevConfig #CareerDebugging](https://twitter.com/search?f=tw
   </div>
 
   <div class="col-lg-4">
-    <a class="btn btn-danger btn-block" href="www.meetup.com/dev-config/events/227566392/"><i class="fa fa-fw fa-ticket"></i> Book your spot</a>
-    <a class="btn btn-success btn-block" href="#share"><i class="fa fa-fw fa-share"></i> Spread the word</a>
+    <a class="btn btn-danger btn-block" href="https://www.meetup.com/dev-config/events/227566392/"><i class="fa fa-fw fa-ticket"></i> Book your spot</a>
+    <!-- <a class="btn btn-success btn-block" href="#share"><i class="fa fa-fw fa-share"></i> Spread the word</a> -->
   </div>
 </div>
 
