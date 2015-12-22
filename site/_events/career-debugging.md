@@ -1,7 +1,7 @@
 ---
 date: 2016-01-16 12:30:00
 title: "Career Debugging"
-summary: "A one of a kind event, the first ever official Yeoman Hackathon!"
+summary: "From shell scripts to IDEs, we programmers spend a lot of time finding tools to optimize our development workflow. But how often are you given tools to debug your career?"
 tags: [Meetup]
 layout: event
 ---
