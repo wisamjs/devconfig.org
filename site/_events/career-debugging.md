@@ -43,7 +43,7 @@ Keep an eye on the [#DevConfig #CareerDebugging](https://twitter.com/search?f=tw
 ----
 
 ### Agenda
- 
+
 <table class="table table-striped table-bordered">
   <tr>
     <th width="80">12:30 PM</th>
@@ -70,6 +70,10 @@ Keep an eye on the [#DevConfig #CareerDebugging](https://twitter.com/search?f=tw
     <td>Event ends</td>
   </tr>
 </table>
+
+**A note about why we are charging for the event:**
+
+The Strengths Finder assessment costs $15 USD. As part of registering for the afternoon, you will receive an activation code to complete the quiz.
 
 ----
 <!--
