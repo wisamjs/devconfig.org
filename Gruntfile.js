@@ -260,7 +260,6 @@ module.exports = function (grunt) {
 
   grunt.registerTask('deploy', [
     'default',
-    'gh-pages',
-    'cloudflare'
+    'gh-pages'
   ])
 }
