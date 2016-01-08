@@ -29,7 +29,7 @@ Keep an eye on the [#DevConfig #CareerDebugging](https://twitter.com/search?f=tw
       </tr>
       <tr>
         <th>Where</th>
-        <td><a target="_blank" href="https://goo.gl/maps/kmfxXZPcsCJ2"><strong>Shopify</strong> &mdash; 80 Spadina Ave</a></td>
+        <td><!--<a target="_blank" href="https://goo.gl/maps/kmfxXZPcsCJ2"><strong>Shopify</strong> &mdash; 80 Spadina Ave</a>-->TBD</td>
       </tr>
     </table>
   </div>
