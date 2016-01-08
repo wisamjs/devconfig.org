@@ -29,7 +29,7 @@ Keep an eye on the [#DevConfig #CareerDebugging](https://twitter.com/search?f=tw
       </tr>
       <tr>
         <th>Where</th>
-        <td><!--<a target="_blank" href="https://goo.gl/maps/uLzLG"><strong>Bento Miso</strong> &mdash; 862 Richmond Street West, Suite 100</a>-->TBD</td>
+        <td><a target="_blank" href="https://goo.gl/maps/kmfxXZPcsCJ2"><strong>Shopify</strong> &mdash; 80 Spadina Ave</a></td>
       </tr>
     </table>
   </div>
